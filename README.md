@@ -1,5 +1,6 @@
 <!--[![MasterHead](https://scitechdaily.com/images/Purdue-Machine-Learning-Drug-Discovery.jpg)](https://rishavchanda.id)-->
 
+<img src="https://github.com/paliwalpiyush151/paliwalpiyush151/blob/main/banner_pp.png"/>
 
 <h1 align="center">Hi 👋, I'm Piyush Paliwal</h1>
 <h3 align="center">A passionate Computational Chemist working in AI applied to Chemistry.</h3>
